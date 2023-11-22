@@ -1,1 +1,1 @@
-# Cauculadora-de-media
+# Calculadora-de-media
